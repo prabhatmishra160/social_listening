@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: brightfield-common
+Version: 0.7
+Summary: Common utility functions for Brightfield
+Home-page: https://github.com/brightfieldgroup/common
+Author: Aviram
+Author-email: aviram@toptal.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
